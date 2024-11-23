@@ -1,11 +1,6 @@
 import React from "react";
-import {
-  BrowserRouter as Router,
-  Routes,
-  Route,
-  Navigate,
-} from "react-router-dom";
-import { AuthProvider, useAuth } from "./context/AuthContext";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { AuthProvider } from "./context/AuthContext";
 import Login from "./pages/Login";
 import Signup from "./pages/Signup";
 import Home from "./pages/Home";
@@ -14,9 +9,6 @@ import MealPlanner from "./pages/MealPlanner";
 import RecipeDetail from "./pages/RecipeDetail";
 import Header from "./components/Header";
 import ProtectedRoute from "./components/ProtectedRoute";
-
- 
-  
 
 const App = () => {
   return (

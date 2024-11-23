@@ -15,7 +15,7 @@ const RecipeDetail = () => {
           {
             params: {
               includeNutrition: true, // Include nutrition data
-              apiKey: "edb80d5240f44fcfa92985e774feabee", // Replace with your Spoonacular API key
+              apiKey: "edb80d5240f44fcfa92985e774feabee",  
             },
           }
         );
