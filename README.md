@@ -50,22 +50,22 @@ CookCompass is an AI-powered recipe finder website designed to make cooking simp
 ### ScreenShots
 
 ## Login page
-<img src="Login.png">
+<img src="public/Login.png">
 
 ## Signup page
-<img src="Signup.png">
+<img src="public/Signup.png">
 
 ## Home page
-<img src="Home.png">
+<img src="public/Home.png">
 
 ## Food showcase card page
-<img src="Food-Card.png">
+<img src="public/Food-Card.png">
 
 ## Meal planner page
-<img src="Meal-Maker1.png">
+<img src="public/Meal-Maker1.png">
 
 ## Meal planner page
-<img src="Meal-Maker.png">
+<img src="public/Meal-Maker.png">
 
 ## Recipe Description page
-<img src="Food-desc.png">
+<img src="public/Food-desc.png">
