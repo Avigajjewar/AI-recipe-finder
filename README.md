@@ -1,18 +1,8 @@
 # Overview
-CookCompass is an AI-powered recipe finder website designed to make cooking simple and enjoyable. Enter the ingredients you have, and CookCompass will suggest recipes tailored to your pantry. Whether you're a seasoned chef or a beginner, CookCompass offers personalized meal ideas, filters for dietary preferences, and step-by-step instructions to elevate your cooking experience.
+This is an AI-powered recipe finder website designed to make cooking simple and enjoyable. Enter the ingredients you have, and this will suggest recipes tailored to your pantry. Whether you're a seasoned chef or a beginner, This offers personalized meal ideas, filters for dietary preferences, and step-by-step instructions to elevate your cooking experience.
 
 Click <a href="https://ai-recipefinder.netlify.app/">here</a> to Access the site.
-
-
-Here’s a professional and detailed README description for your recipe finder website:
-
-CookCompass
-Your ultimate guide to discovering delicious recipes effortlessly!
-
-Overview
-CookCompass is an AI-powered recipe finder website designed to make cooking simple and enjoyable. Enter the ingredients you have, and CookCompass will suggest recipes tailored to your pantry. Whether you're a seasoned chef or a beginner, CookCompass offers personalized meal ideas, filters for dietary preferences, and step-by-step instructions to elevate your cooking experience.
-
-
+ 
 # Features
 
 ## Core Features
